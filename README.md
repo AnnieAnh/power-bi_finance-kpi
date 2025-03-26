@@ -5,6 +5,7 @@
 - 01_actual-vs-target-dataset.xlsx: Contains the dataset used
 - 02_finance-kpi-2503.pbix: The Power BI file with all queries, transformations, and visualizations
 - 03_Dashboard.gif: A preview of the interactive dashboard
+  
 ![Screen Recording](https://github.com/AnnieAnh/A/blob/main/03_Dashboard.gif)
 
 ## 🔧 How to Use
