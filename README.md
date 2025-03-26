@@ -1,2 +1,2 @@
 # Power-BI Practice Project - FINANCE KPI 
-![Alt Text](https://media.giphy.com/media/03_Dashboard2/giphy.gif)
+![Screen Recording](https://github.com/AnnieAnh/A/blob/main/03_Dashboard2.gif)
